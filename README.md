@@ -93,7 +93,8 @@ void loop()
 
 ## OUTPUT OF SIMULATION :
 
-[My image](username.github.com/repository/img/image.jpg)
-![Screenshot (180)](https://github.com/MavillaPranathi/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/118343610/262411e3-fc48-4faa-8142-d8d31df1c1e2)
+![Screenshot (180)](https://github.com/MavillaPranathi/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/118343610/cdec67df-f760-4a94-a466-e4eba1c1762e)
+
+![Screenshot (181)](https://github.com/MavillaPranathi/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/118343610/eed61340-4497-47cd-a321-eb0199aa655a)
 
 
